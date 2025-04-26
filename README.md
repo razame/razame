@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razame
-- 👀 I’m interested in Laravel, Flutter and VueJS
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Agentic AI, Laravel, Flutter and VueJS
+- 🌱 I’m currently learning Agentic AI
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
